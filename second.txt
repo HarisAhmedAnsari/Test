@@ -4,3 +4,6 @@ on a file
 
 
 test
+
+
+new stash
